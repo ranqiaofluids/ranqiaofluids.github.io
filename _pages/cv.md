@@ -14,7 +14,7 @@ Education
 * Ph.D in Fluid Mechanics, University of Science and Technology of China, 2024
 * B.S. in Engineering Mechanics, Hohai University, 2018
 
-Work experience
+Projects
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -22,14 +22,9 @@ Work experience
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * xxx
+  * xxx
+  * xxx
   
 Skills
 ======
