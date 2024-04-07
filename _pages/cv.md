@@ -36,7 +36,7 @@ Projects
   * Supported by National Natural Science Foundation of China (Grant No. 12272372);
   * My duty: Physical modeling, numerical simulation, data analysis;
 
- * Slip effect on the instability of liquid films on a fibre
+* Slip effect on the instability of liquid films on a fibre
   * Supported by National Natural Science Foundation of China (Grant No. 12202437);
   * MMy duty: Instability analysis, data analysis.
 
