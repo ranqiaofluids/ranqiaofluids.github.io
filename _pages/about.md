@@ -13,6 +13,6 @@ I have been working on interfacial hydrodynamics of micro/nanofluids under the a
 
 I am very fortunate to be advised by [Prof. Ting Si](http://staff.ustc.edu.cn/~tsi/) of SIPF Lab from [School of Computer Science](https://cs.pku.edu.cn/), University of Science and Technology of China. 
 
-You can find my CV here: [RanQIAO's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [RanQIAO's Curriculum Vitae](../assets/Resume-RanQIAO.pdf).
 
 [Email](mailto:qiaoran@mail.ustc.edu.cn) / [Wechat](../images/wechat.jpg) / [Researchgate](https://researchgate.com)
