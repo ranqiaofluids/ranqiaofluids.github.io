@@ -15,4 +15,4 @@ I am very fortunate to be advised by [Prof. Ting Si](http://staff.ustc.edu.cn/~t
 
 You can find my CV here: [RanQIAO's Curriculum Vitae](../assets/Resume-RanQIAO.pdf).
 
-[Email](mailto:qiaoran@mail.ustc.edu.cn) / [Wechat](../images/wechat.jpg) / [Researchgate](https://www.researchgate.net/profile/Ran-Qiao)
+[Email](mailto:qiaoran@mail.ustc.edu.cn) / [Wechat](../images/Wechat.jpg) / [Researchgate](https://www.researchgate.net/profile/Ran-Qiao)
