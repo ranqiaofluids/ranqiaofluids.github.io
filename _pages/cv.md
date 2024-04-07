@@ -16,16 +16,32 @@ Education
 
 Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Marangoni instability of the non-isothermal liquid jet
+  * Supported by National Natural Science Foundation of China (Grant No. 12027801);
+  * My duty: Physical modeling, physical mechanism analysis, numerical simulation, data analysis;
 
-* Fall 2015: Research Assistant
-  * xxx
-  * xxx
-  * xxx
-  
+* Hydrodynamics of liquid jets under velocity modulation
+  * Supported by National Natural Science Foundation of China (Grant No. 12388101);
+  * My duty: Physical modeling, experiments, physical mechanism analysis, data analysis;
+
+* Droplet dynamics on a solid substrate
+  * Supported by National Natural Science Foundation of China Grant No. 1872274) and National Key research and Development Program of China (Grant No. 2022YFA1204800);
+  * My duty: Numerical simulation, data analysis;
+ 
+* Non-Newtonian hydrodynamics in flow-focusing
+  * Supported by National Natural Science Foundation of China (Grant No. 12272372);
+  * My duty: Physical modeling, numerical simulation, data analysis;
+
+* Non-Newtonian hydrodynamics in flow-focusing
+  * Supported by National Natural Science Foundation of China (Grant No. 12272372);
+  * My duty: Physical modeling, numerical simulation, data analysis;
+
+ * Slip effect on the instability of liquid films on a fibre
+  * Supported by National Natural Science Foundation of China (Grant No. 12202437);
+  * MMy duty: Instability analysis, data analysis.
+
+
+
 Skills
 ======
 * Code: MATLAB, FORTRAN, C, Python
