@@ -6,8 +6,8 @@ main:
   - title: "Research Projects"
     url: /portfolio/
 
-  - title: "Presentations"
-    url: /talks/  
+#  - title: "Presentations"
+#    url: /talks/  
   
 #  - title: "Blog Posts"
 #    url: /year-archive/
