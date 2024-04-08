@@ -1,6 +1,6 @@
 ---
 title: "Droplet dynamics on a solid substrate"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/comsol.png'>"
 collection: portfolio
 ---
 
