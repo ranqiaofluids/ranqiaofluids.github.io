@@ -1,6 +1,6 @@
 ---
 title: "Slip effect on the instability of liquid films on a fibre"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/slip.png'>"
 collection: portfolio
 ---
 
