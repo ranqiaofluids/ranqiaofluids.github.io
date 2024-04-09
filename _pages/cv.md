@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Fluid Mechanics, University of Science and Technology of China, 2024
-* B.S. in Engineering Mechanics, Hohai University, 2018
+* Ph.D in Fluid Mechanics, University of Science and Technology of China (中国科学技术大学), 2024
+* B.S. in Engineering Mechanics, Hohai University (河海大学), 2018
 
 Projects
 ======
