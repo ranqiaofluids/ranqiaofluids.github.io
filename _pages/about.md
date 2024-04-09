@@ -13,5 +13,5 @@ I have been working on interfacial instabilities and hydrodynamics of multiphase
 
 You can find my CV here: [RanQIAO's Curriculum Vitae](../assets/Resume-RanQIAO.pdf).
 
-You can contact with me by email or Wechat:
+You can contact me by email or Wechat:
 [Email: qiaoran@mail.ustc.edu.cn](mailto:qiaoran@mail.ustc.edu.cn) / [Wechat QR code](../images/Wechat.jpg)
