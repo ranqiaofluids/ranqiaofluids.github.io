@@ -15,4 +15,3 @@ __2. Interfacial instability of liquid films on a fiber__
 A theoretical framework based on the axisymmetric Navier–Stokes equations is proposed via linear instability analysis to investigate the influence of inertia and slip on the instability of a liquid film on a fibre. Direct numerical simulations of the Navier–Stokes equations are then performed to further confirm the theoretical findings.
 <img src='/images/2024JFM-1.png'>
 <img src='/images/2024JFM-2.png'>
-<img src='/images/2024JFM-3.png'>
