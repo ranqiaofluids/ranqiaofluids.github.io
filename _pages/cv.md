@@ -27,14 +27,14 @@ Projects
 * Droplet dynamics on a solid substrate
   * Supported by National Natural Science Foundation of China Grant No. 1872274) and National Key research and Development Program of China (Grant No. 2022YFA1204800);
   * My duty: Numerical simulation, data analysis;
- 
-* Non-Newtonian hydrodynamics in flow-focusing
-  * Supported by National Natural Science Foundation of China (Grant No. 12272372);
-  * My duty: Physical modeling, numerical simulation, data analysis;
 
 * Slip effect on the instability of liquid films on a fibre
   * Supported by National Natural Science Foundation of China (Grant No. 12202437);
   * My duty: Instability analysis, data analysis.
+ 
+* Non-Newtonian hydrodynamics in flow-focusing
+  * Supported by National Natural Science Foundation of China (Grant No. 12272372);
+  * My duty: Physical modeling, numerical simulation, data analysis;
 
 
 
