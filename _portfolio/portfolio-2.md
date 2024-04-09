@@ -4,4 +4,8 @@ excerpt: "This project aims to investigate the ... <br/><img src='/images/2024NC
 collection: portfolio
 ---
 
-XXX
+__1. Hydrodynamics of droplets wetting on the solid substrate__
+
+
+
+__2. Interfacial instability of liquid films on a fiber__
