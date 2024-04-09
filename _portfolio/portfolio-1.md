@@ -4,7 +4,7 @@ excerpt: "The linear stability analysis and numerical simulation are employed to
 collection: portfolio
 ---
 
-__On the instability of the non-isothermal liquid jet__
+__1. On the instability of the non-isothermal liquid jet__
 
 
-__Hydrodynamics of liquid jets under velocity modulation__
+__2. Hydrodynamics of liquid jets under velocity modulation__
