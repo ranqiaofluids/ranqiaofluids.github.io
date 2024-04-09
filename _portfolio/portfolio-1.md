@@ -9,4 +9,12 @@ Linear temporal instability analysis of a liquid jet emerging into a stationary 
 <img src='/images/2023AMS-2.png'>
 <img src='/images/2022-2.png'>
 <img src='/images/2022-3.png'>
-__2. Hydrodynamics of liquid jets under velocity modulation__
+
+__2. Hydrodynamics of liquid jets under the velocity modulation__
+The linear instability analysis of liquid jets with periodic velocity modulation in the ambient gas is carried out for high-speed cases. Utilizing the viscous potential theory and the Floquet theory, an analytical dispersion relation for the perturbation growth can be obtained. Due to the parametric resonance caused by velocity modulation, the oscillatory Kelvin–Helmholtz instability (OKHI) can be triggered in the short-wavelength region, leading to the competition between the OKHI and the intrinsic Rayleigh–Plateau and Kelvin–Helmholtz instability (RP-KHI). 
+<img src='/images/2024POF-1.png'>
+<img src='/images/2024POF-3.png'>
+
+The breakup of liquid jets in axisymmetric co-flow focusing (CFF) upon velocity oscillation is studied through numerical simulations and experiments. The phase diagrams of several modes for jet breakup are depicted, considering the effect of perturbation frequency, amplitude and liquid flow rates. In particular, the breakup of a liquid jet can be synchronized with actuation within a frequency range containing the natural breakup frequency, resulting in uniform droplets, and the size of droplets can be adjusted by frequency.
+<img src='/images/2019POF-2.png'>
+<img src='/images/2023JFM-3.png'>
