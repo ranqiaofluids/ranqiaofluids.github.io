@@ -1,6 +1,6 @@
 ---
-title: "Hydrodynamics on the microfibres or the solid substrate"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/velocity.png'>"
+title: "Interfacial instability and wetting phenonema on the solid substrate"
+excerpt: "This project aims to investigate the ... <br/><img src='/images/velocity.png'>"
 collection: portfolio
 ---
 
