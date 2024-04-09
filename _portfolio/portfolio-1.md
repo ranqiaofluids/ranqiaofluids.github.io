@@ -1,5 +1,5 @@
 ---
-title: "Marangoni instability of the non-isothermal liquid jet"
+title: "Liquid jet instability in complex situations"
 excerpt: "The linear stability analysis and numerical simulation are employed to investigate the effect of thermal field on the jet instability. <br/><img src='/images/2022-1.png'>"
 collection: portfolio
 ---
