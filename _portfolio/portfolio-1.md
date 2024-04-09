@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 __1. On the instability of the non-isothermal liquid jet__
-<img src='/images/2023AMI-2.png'>
+<img src='/images/2023AMS-2.png'>
 
 __2. Hydrodynamics of liquid jets under velocity modulation__
