@@ -8,7 +8,7 @@ __1. Hydrodynamics of droplets wetting on the solid substrate__
 
 The hydrodynamics of droplets wetting on the solid substrate is investigated by numerical simulation. The development of droplet profiles is studied. The velocity distribution is obtained. 
 <img src='/images/2024NC-1.png'>
-
+<img src='/images/comsol.png'>
 
 __2. Interfacial instability of liquid films on a fiber__
 
