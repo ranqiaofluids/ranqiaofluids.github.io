@@ -10,6 +10,7 @@ The hydrodynamics of droplets wetting on the solid substrate is investigated by 
 <img src='/images/2024NC-1.png'>
 <img src='/images/comsol.png'>
 
+
 __2. Interfacial instability of liquid films on a fiber__
 
 A theoretical framework based on the axisymmetric Navier–Stokes equations is proposed via linear instability analysis to investigate the influence of inertia and slip on the instability of a liquid film on a fibre. Direct numerical simulations of the Navier–Stokes equations are then performed to further confirm the theoretical findings.
